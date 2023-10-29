@@ -1,0 +1,21 @@
+THIS ASSIGNMENT IS DUE ON 10/30/2023
+
+Write a Python Program to read the names of the persons and their Date Of Births from the People_And_Their_DOBs.txt and produce an output file which will have the list of Names and his/ her Age sorted in Descending order similar to People_And_Their_DOBs_Output.txt file. You program will then also compare the output your program produced and the one is provided (People_And_Their_DOBs_Output.txt). If they are same then print "Matched and Verified", otherwise your Program will not be accepted.
+
+The program MUST contain:
+
+1. Multiple Functions, I can suggest few, for example: read_file, calculate_age, generate_output, compare_files etc . You can add other functions as 
+you need. No restrictions on that. 
+
+2. Program may use os and shutil modules for any file system related operation. This is preferred to have but not required though.
+
+3. Program MUST use necessary functions from the datetime library for finding age and other date related calculations
+
+4. Program MUST catch ValueError, FileNotFoundError, PermissionError, IOError and generic Exception
+
+5. Program must have if __name__ == '__main__': checking
+
+** DO NOT MODIFY THE PROVIDED OUTPUT FILE
+** READ ONLY FROM THE PROVIDED People_And_Their_DOBs.txt 
+** YOUR OUTPUT FILE NAME SHOULD BE People_And_Their_DOBs_Output_YOURFIRSTNAME.txt
+** Feel free to ask any questions you may have via Email or MS Teams DM 
